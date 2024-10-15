@@ -79,10 +79,6 @@ I am developing software for Windows in C# and backend development in Python/C# 
 
 ###
 
-<img src="https://raw.githubusercontent.com/Antongo22/Antongo22/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antongo22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Antongo22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
