@@ -94,7 +94,3 @@ I am developing software for Windows in C# and backend development in Python/C# 
 
 
 
-
-![GitHub metrics](https://metrics.lecoq.io/Antongo22)  
-
-
