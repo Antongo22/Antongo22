@@ -83,8 +83,8 @@ _"Код для меня — это не просто работа, а иску�
 ## 🧠 В чем я разбираюсь:
 🐳 **Микросервисы:** Использую Docker и Kubernetes для создания надежных решений.  
 🔄 **CI/CD:** Настраиваю пайплайны с помощью Jenkins.  
-🌐 **API разработка:** Работаю с ASP.NET, Blazor, Django, Flask, FastAPI  для интеграции и тестирования.  
-🗃️ **Базы данных:** PostgreSQL, MySQL, SQLite, SQL Server.  
+🌐 **API разработка:** Работаю с ASP.NET, Blazor, Django, Flask, FastAPI, Selenium  для интеграции и тестирования.  
+🗃️ **Базы данных:** PostgreSQL, MySQL, SQLite, MSSQL Server, MongoDB, Redis.  
 🎓 **Обучение:** Провожу лекции и воркшопы по Python и C#.
 
 ---
@@ -121,6 +121,11 @@ _"Код для меня — это не просто работа, а иску�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
 </div>
 
 ### Инструменты разработки:  
@@ -138,6 +143,8 @@ _"Код для меня — это не просто работа, а иску�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
 
 
