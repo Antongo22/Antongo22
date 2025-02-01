@@ -21,8 +21,12 @@
 using System;
 using System.Collections.Generic;
 
-public class AntonAleynichenko
+public sealed class AntonAleynichenko
 {
+    private static readonly Lazy<AntonAleynichenko> _instance = new Lazy<AntonAleynichenko>(() => new AntonAleynichenko());
+
+    public static AntonAleynichenko Instance => _instance.Value;
+
     public string Name { get; } = "Антон Алейниченко";
     public DateTime DateOfBirth { get; } = new DateTime(2006, 11, 27);
     public string City { get; } = "Москва, Россия";
@@ -34,7 +38,7 @@ public class AntonAleynichenko
     public string CurrentFocus { get; } = "Разработка масштабируемых приложений на C# и Python";
     public string FunFact { get; } = "Я настолько люблю кодить, что считаю кофе недостаточно асинхронным! ☕";
 
-    public AntonAleynichenko()
+    private AntonAleynichenko()
     {
         Console.WriteLine("Привет! Я готов создавать инновационные и масштабируемые решения.");
     }
