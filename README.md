@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:anton005go.too@gmail.com">📧 anton005go.too@gmail.com</a>  
   | <a href="https://t.me/d1n0nn">Telegram</a>  
-  | <a href="https://main--aleynichenkoanton.netlify.app">🌐 Мой сайт</a>  
+  | <a href="https://aleynichenko.ru">🌐 Мой сайт</a>  
   | <a href="https://docs.google.com/document/d/1UyzE1RjDUeMAAOiYdqbAOu4yCrP1EW2Km0I7kEhCFO4/edit?tab=t.0">Резюме</a>  
 </p>  
 
