@@ -2,7 +2,7 @@
 ### .NET / Python разработчик 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=.NET+Developer;Python+Backend+Developer;Project+Manager;Always+learning+new+skills;DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=.NET+Developer;Python+Backend+Developer;DevOps;Fullstack+Developer" alt="Typing SVG" />
 </div>
 
 
