@@ -6,6 +6,8 @@
 </div>
 
 
+
+
 <p align="center">
   <a href="mailto:anton005go.too@gmail.com">📧 anton005go.too@gmail.com</a>  
   | <a href="https://t.me/d1n0nn">Telegram</a>  
@@ -32,10 +34,10 @@ public sealed class AntonAleynichenko
     public string City { get; } = "Москва, Россия";
     public string Gender { get; } = "Мужской";
     public int Height { get; } = 187;
-    public List<string> Hobbies { get; } = new() { "Программирование", "Спорт", "Обучение", "Менеджмент проектов" };
-    public List<string> CodeLanguages { get; } = new() { "C#", "Python", "C++", "SQL", "JavaScript", "HTML", "CSS", "Java", "Kotlin" };
-    public List<string> Tools { get; } = new() { "Docker", "Kubernetes", "Jenkins", "PyCharm", "VS Code", "Visual Studio", "Git" };
-    public string CurrentFocus { get; } = "Разработка масштабируемых приложений на C# и Python";
+    public List<string> Hobbies { get; } = new() { "Программирование", "Спорт", "Обучение", "Менеджмент проектов", "Администрирование серверов" };
+    public List<string> CodeLanguages { get; } = new() { "C#", "Python", "C++", "SQL", "JavaScript", "TypeScript", "HTML", "CSS", "Java", "Kotlin", "PHP" };
+    public List<string> Tools { get; } = new() { "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "PyCharm", "VS Code", "Visual Studio", "Git", "Nginx", "Yandex Cloud" };
+    public string CurrentFocus { get; } = "Разработка масштабируемых приложений на C# и Python, настройка CI/CD и инфраструктуры";
     public string FunFact { get; } = "Я настолько люблю кодить, что считаю кофе недостаточно асинхронным! ☕";
 
     private AntonAleynichenko()
@@ -71,11 +73,14 @@ public sealed class AntonAleynichenko
 ```
 
 💻 Разработчик десктопных приложений на **C#** для Windows  
-🖥️ Бэкенд разработчик на **Python**/**C#**  
-🧑‍💼 Опыт проектного менеджмента и руководства командой  
-⚙️ Понимание и работа с микросервисной архитектурой 
+🖥️ Бэкенд разработчик на **Python**/**C#** (ASP.NET, FastAPI, Django, Flask)  
+🌐 Фронтенд разработчик с использованием **React**, **JavaScript**, **HTML/CSS**  
+⚙️ DevOps: настройка CI/CD, Docker, Kubernetes, серверов (Nginx, Yandex Cloud)  
+🧑‍💼 Опыт проектного менеджмента, руководства командой и проведения технических собеседований  
+🎓 Провожу обучение по Python и C#, автор учебника по программированию  
+🏠 Администрирую личный сервер на Ubuntu, хостящий сайты и игровые платформы  
 
-💼 Разрабатываю приложения для образования, провожу обучение Python и C#.  
+💼 Разрабатываю приложения для образования, включая Telegram-боты для обучения программированию, а также системы управления задачами и анализа новостей.
 
 ---
 
@@ -85,14 +90,16 @@ _"Код для меня — это не просто работа, а иску�
 ---
 
 ## 🧠 В чем я разбираюсь:
-🐳 **Микросервисы:** Использую Docker и Kubernetes для создания надежных решений.  
-🔄 **CI/CD:** Настраиваю пайплайны с помощью Jenkins.  
-🌐 **API разработка:** Работаю с ASP.NET, Blazor, Django, Flask, FastAPI, Selenium  для интеграции и тестирования.  
+🐳 **Микросервисы:** Использую Docker и Kubernetes для создания надежных решений, настраиваю серверы с Nginx.  
+🔄 **CI/CD:** Настраиваю пайплайны с помощью Jenkins и GitHub Actions, включая тестирование, кодчекеры и автодеплой.  
+🌐 **API разработка:** Работаю с ASP.NET, Minimal API, FastAPI, Django, Flask для интеграции и автоматизации.  
 🗃️ **Базы данных:** PostgreSQL, MySQL, SQLite, MSSQL Server, MongoDB, Redis.  
-🎓 **Обучение:** Провожу лекции и воркшопы по Python и C#.
+🎮 **Игровая разработка:** Создал игру на WPF ([TrapsGame](https://github.com/Antongo22/TrapsGame)), высоко оцененную преподавателями.  
+🤖 **Образовательные проекты:** Разработал Telegram-приложение (аналог Duolingo) для обучения программированию и систему "Умные новости" для анализа новостных источников.  
+🏠 **Инфраструктура:** Настроил личный сервер на Ubuntu с Docker, хостящий сайты ([trexon.ru](http://trexon.ru/about), [bunker.trexon.ru](http://bunker.trexon.ru)) и Minecraft-сервер.  
+🎓 **Обучение:** Провожу лекции, воркшопы и репетиторство по Python и C#, пишу учебник по программированию.
 
 ---
-
 
 ## 💡 Навыки и технологии  
 
@@ -106,6 +113,8 @@ _"Код для меня — это не просто работа, а иску�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
@@ -114,7 +123,23 @@ _"Код для меня — это не просто работа, а иску�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
 </div>  
+
+### Фреймворки и библиотеки:  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+</div>
 
 ### Базы данных:  
 <div>
@@ -126,13 +151,12 @@ _"Код для меня — это не просто работа, а иску�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo" />
 </div>
 
-### Инструменты разработки:  
+### Инструменты разработки и DevOps:  
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
   <img width="12" />
@@ -148,9 +172,10 @@ _"Код для меня — это не просто работа, а иску�
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
 </div>
-
 
 ---
 
@@ -164,23 +189,24 @@ _"Код для меня — это не просто работа, а иску�
 ---
 
 ## 🏆 Достижения  
-🎯 Решено **N задач** на [LeetCode](https://leetcode.com/u/Antongo22/).  
-🏅 Постоянное участие в хакатонах и образовательных проектах.  
+🎯 Финалист хакатона T1, продемонстрировал навыки разработки и командной работы.  
+🏅 Победитель внутренних соревнований по алгоритмам в Tskills.  
+🌐 Настроил личный сервер на Ubuntu с Docker и Kubernetes, хостящий сайты ([trexon.ru](http://trexion.ru/about), [bunker.trexon.ru](http://bunker.trexon.ru)) и Minecraft-сервер.  
+🔥 Ежедневные коммиты на GitHub на протяжении 2+ лет, отражающие высокую мотивацию и обучаемость.  
+🎮 Разработал игру на WPF ([TrapsGame](https://github.com/Antongo22/TrapsGame)).
+🤖 Создал Telegram-приложение для обучения программированию и систему "Умные новости" для анализа новостей.  
+📘 Пишу учебник по C# и Python, провожу репетиторство для студентов.
 
 ---
 
-
-
 ## ✨ Личностные качества  
 🎯 Ориентация на результат  
-🧑‍🤝‍🧑 Лидерские качества  
-📘 Способность к обучению  
-🗣️ Коммуникабельность  
+🧑‍🤝‍🧑 Лидерские качества и умение выстраивать рабочие процессы в команде  
+📘 Способность к быстрому обучению  
+🗣️ Коммуникабельность и навыки проведения технических собеседований  
 
 ---
 
 <div align="center">
   <img height="200" src="https://gifdb.com/images/high/homelander-gif-file-9427kb-wsek911zujaibnb0.webp" alt="Motivational GIF" />
 </div>  
-
-
