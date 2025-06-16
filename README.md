@@ -12,7 +12,7 @@
   <a href="mailto:anton005go.too@gmail.com">📧 anton005go.too@gmail.com</a>  
   | <a href="https://t.me/d1n0nn">Telegram</a>  
   | <a href="https://aleynichenko.ru">🌐 Мой сайт</a>  
-  | <a href="https://drive.google.com/drive/u/0/home">Резюме</a>  
+  | <a href="https://docs.google.com/document/d/1PSPn5YfwqyzqCycR2Bc9abOS-cRKm55N/edit?usp=sharing&ouid=113991618058096830850&rtpof=true&sd=true">Резюме</a>  
 </p>  
 
 ---
