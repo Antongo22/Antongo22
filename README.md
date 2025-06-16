@@ -9,7 +9,8 @@
 
 
 <p align="center">
-  <a href="mailto:anton005go.too@gmail.com">📧 anton005go.too@gmail.com</a>  
+  <a href="https://www.linkedin.com/in/anton-aleynichenko-46352936b/">Linked In</a> 
+  | <a href="mailto:anton005go.too@gmail.com">📧 anton005go.too@gmail.com</a>  
   | <a href="https://t.me/d1n0nn">Telegram</a>  
   | <a href="https://aleynichenko.ru">🌐 Личный сайт</a>  
   | <a href="https://trexon.ru">🌐 Мой сайт</a>  
