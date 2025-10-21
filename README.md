@@ -21,58 +21,6 @@
 
 ## 🎯 О себе  
 
-```csharp
-using System;
-using System.Collections.Generic;
-
-public sealed class AntonAleynichenko
-{
-    private static readonly Lazy<AntonAleynichenko> _instance = new Lazy<AntonAleynichenko>(() => new AntonAleynichenko());
-
-    public static AntonAleynichenko Instance => _instance.Value;
-
-    public string Name { get; } = "Антон Алейниченко";
-    public DateTime DateOfBirth { get; } = new DateTime(2006, 11, 27);
-    public string City { get; } = "Москва, Россия";
-    public string Gender { get; } = "Мужской";
-    public int Height { get; } = 187;
-    public List<string> Hobbies { get; } = new() { "Программирование", "Спорт", "Обучение", "Менеджмент проектов", "Администрирование серверов" };
-    public List<string> CodeLanguages { get; } = new() { "C#", "Python", "C++", "SQL", "JavaScript", "TypeScript", "HTML", "CSS", "Java", "Kotlin", "PHP" };
-    public List<string> Tools { get; } = new() { "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "PyCharm", "VS Code", "Visual Studio", "Git", "Nginx", "Yandex Cloud" };
-    public string CurrentFocus { get; } = "Разработка масштабируемых приложений на C# и Python, настройка CI/CD и инфраструктуры";
-    public string FunFact { get; } = "Я настолько люблю кодить, что считаю кофе недостаточно асинхронным! ☕";
-
-    private AntonAleynichenko()
-    {
-        Console.WriteLine("Привет! Я готов создавать инновационные и масштабируемые решения.");
-    }
-
-    public void AboutMe()
-    {
-        Console.WriteLine($"\nМеня зовут {Name}, я родился {DateOfBirth:dd.MM.yyyy} и живу в {City}.");
-        Console.WriteLine($"Основное направление: {CurrentFocus}.");
-        Console.WriteLine($"Рост: {Height} см.");
-        Console.WriteLine($"Увлечения: {string.Join(", ", Hobbies)}.");
-        Console.WriteLine($"Интересный факт: {FunFact}\n");
-
-        DisplaySkills();
-    }
-
-    public void DisplaySkills()
-    {
-        Console.WriteLine("Мои навыки в программировании:");
-        foreach (var language in CodeLanguages)
-        {
-            Console.WriteLine($"- {language}");
-        }
-        Console.WriteLine("\nИнструменты, которые я использую:");
-        foreach (var tool in Tools)
-        {
-            Console.WriteLine($"- {tool}");
-        }
-    }
-}
-```
 
 💻 Разработчик десктопных приложений на **C#** для Windows  
 🖥️ Бэкенд разработчик на **Python**/**C#** (ASP.NET, FastAPI, Django, Flask)  
@@ -81,7 +29,6 @@ public sealed class AntonAleynichenko
 🧑‍💼 Опыт проектного менеджмента, руководства командой и проведения технических собеседований  
 🎓 Провожу обучение по Python и C#, автор учебника по программированию  
 🏠 Администрирую личный сервер на Ubuntu, хостящий сайты и игровые платформы  
-
 💼 Разрабатываю приложения для образования, включая Telegram-боты для обучения программированию, а также системы управления задачами и анализа новостей.
 
 ---
