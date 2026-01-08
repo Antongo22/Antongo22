@@ -125,14 +125,6 @@
 
 ---
 
-## 📈 Статистика  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antongo22&hide_title=true&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antongo22&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Antongo22&theme=dark&hide_border=true" height="150" alt="Streak Stats" />
-</div>
-
----
 
 ## 🏆 Достижения  
 🎯 Финалист хакатона T1, продемонстрировал навыки разработки и командной работы.  
