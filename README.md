@@ -146,5 +146,11 @@
 ---
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Antongo22&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+---
+
+<div align="center">
   <img height="200" src="https://gifdb.com/images/high/homelander-gif-file-9427kb-wsek911zujaibnb0.webp" alt="Motivational GIF" />
 </div>  
