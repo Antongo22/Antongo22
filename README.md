@@ -1,156 +1,208 @@
-# 👋 Привет, я Антон! Backend разработчик и архитектор в ТеДо
-### .NET / Python разработчик 
+# Привет, я Антон Алейниченко
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=.NET+Developer;Python+Backend+Developer;DevOps;Fullstack+Developer;Technical+Architect" alt="Typing SVG" />
-</div>
+### Бэкенд-разработчик / C# / Python
 
-
-
+Распределённые системы • Микросервисы • DevOps
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anton-aleynichenko-46352936b/">Linked In</a> 
-  | <a href="mailto:anton005go.too@gmail.com">📧 anton005go.too@gmail.com</a>  
-  | <a href="https://t.me/d1n0nn">Telegram</a>  
-  | <a href="https://aleynichenko.ru">🌐 Личный сайт</a>  
-  | <a href="https://trexon.ru">🌐 Мой сайт</a>  
-  | <a href="https://docs.google.com/document/d/1PSPn5YfwqyzqCycR2Bc9abOS-cRKm55N/edit?usp=sharing&ouid=113991618058096830850&rtpof=true&sd=true">Резюме</a>  
-</p>  
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=760&lines=%D0%91%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;C%23+%2F+Python;FastAPI+%2F+ASP.NET;%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B+%2F+gRPC;%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9+%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD+%2F+DevOps"
+    alt="Анимация с ключевыми направлениями"
+  />
+</p>
+
+<p align="center">
+  <a href="mailto:anton005go.too@gmail.com">Почта</a>
+  ·
+  <a href="https://t.me/d1n0nn">Telegram</a>
+  ·
+  <a href="https://aleynichenko.ru">Сайт</a>
+  ·
+  <a href="https://trexon.ru">Trexon</a>
+  ·
+  <a href="https://www.linkedin.com/in/anton-aleynichenko-46352936b/">LinkedIn</a>
+  ·
+  <a href="https://docs.google.com/document/d/1PSPn5YfwqyzqCycR2Bc9abOS-cRKm55N/edit?usp=sharing&ouid=113991618058096830850&rtpof=true&sd=true">Резюме</a>
+</p>
 
 ---
 
-## 🎯 О себе  
+## Ключевые цифры
 
-
-💻 Разработчик десктопных приложений на **C#** для Windows  
-🖥️ Бэкенд разработчик на **Python**/**C#** (ASP.NET, FastAPI, Django, Flask)  
-🌐 Фронтенд разработчик с использованием **React**, **JavaScript**, **HTML/CSS**  
-🗃️ Архитектор ПО   
-⚙️ DevOps: настройка CI/CD, Docker, Kubernetes, серверов (Nginx, Yandex Cloud)  
-🧑‍💼 Опыт проектного менеджмента, руководства командой и проведения технических собеседований  
-🎓 Провожу обучение по Python и C#, автор учебника по программированию  
-🏠 Администрирую личный сервер на Ubuntu, хостящий сайты и игровые платформы  
-💼 Разрабатываю приложения для образования, включая Telegram-боты для обучения программированию, а также системы управления задачами и анализа новостей.
+- 3+ года коммерческого опыта.
+- 1000+ запросов/сек. в бэкенд-сервисах.
+- Нагрузочное тестирование до 2000 виртуальных пользователей с Locust.
+- Снижение p95-задержки с десятков секунд до 1-3 секунд.
+- 6 спроектированных и внедрённых микросервисов.
+- Автор курсов Linux (28 академических часов) и DevOps (50 академических часов).
+- 5800+ вкладов на GitHub.
 
 ---
 
+## Сейчас в фокусе
 
-## 🧠 В чем я разбираюсь:
-🐳 **Микросервисы:** Использую Docker и Kubernetes для создания надежных решений, настраиваю серверы с Nginx.  
-🔄 **CI/CD:** Настраиваю пайплайны с помощью Jenkins и GitHub Actions, включая тестирование, кодчекеры и автодеплой.  
-🌐 **API разработка:** Работаю с ASP.NET, Minimal API, FastAPI, Django, Flask для интеграции и автоматизации.  
-🗃️ **Базы данных:** PostgreSQL, MySQL, SQLite, MSSQL Server, MongoDB, Redis.  
-🎮 **Игровая разработка:** Создал игру на WPF ([TrapsGame](https://github.com/Antongo22/TrapsGame)).  
-🤖 **Образовательные проекты:** Разработал Telegram-приложение (аналог Duolingo) для обучения программированию и систему "Умные новости" для анализа новостных источников.  
-🏠 **Инфраструктура:** Настроил личный сервер на Ubuntu с Docker, хостящий сайты ([trexon.ru](http://trexon.ru/about), [bunker.trexon.ru](http://bunker.trexon.ru)) и Minecraft-сервер.  
-🎓 **Обучение:** Провожу лекции, воркшопы и репетиторство по Python и C#, пишу учебник по программированию.
-
----
-
-## 💡 Навыки и технологии  
-
-### Языки программирования:  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-</div>  
-
-### Фреймворки и библиотеки:  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-</div>
-
-### Базы данных:  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo" />
-</div>
-
-### Инструменты разработки и DevOps:  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-</div>
+- Высоконагруженные бэкенд-системы.
+- Распределённая архитектура.
+- PostgreSQL и Redis.
+- gRPC и межсервисное взаимодействие.
+- Kafka и событийно-ориентированные системы.
+- Инженерия производительности.
+- DevOps и наблюдаемость.
 
 ---
 
+## О себе
 
-## 🏆 Достижения  
-🎯 Финалист хакатона T1, продемонстрировал навыки разработки и командной работы.  
-🏅 Победитель внутренних соревнований по алгоритмам в Tskills.  
-🌐 Настроил личный сервер на Ubuntu с Docker и Kubernetes, хостящий сайты ([trexon.ru](http://trexon.ru/about), [bunker.trexon.ru](http://bunker.trexon.ru)) и Minecraft-сервер.  
-🔥 Ежедневные коммиты на GitHub на протяжении 2+ лет, отражающие высокую мотивацию и обучаемость.  
-🎮 Разработал игру на WPF ([TrapsGame](https://github.com/Antongo22/TrapsGame)).  
-🤖 Создал Telegram-приложение для обучения программированию и систему "Умные новости" для анализа новостей.  
-📘 Пишу учебник по C# и Python, провожу репетиторство для студентов.
+Бэкенд-разработчик с 3+ годами коммерческого опыта на C# и Python. Специализируюсь на проектировании бэкенд-сервисов, микросервисной архитектуре, распределённых системах, инженерии производительности и DevOps-практиках.
+
+Работаю с боевыми системами, API-контрактами, интеграциями, очередями сообщений, gRPC, WebSocket, Docker/Kubernetes-инфраструктурой и нагрузочным тестированием. Участвую в архитектурных решениях, технических собеседованиях и обучении разработчиков.
+
+Автор учебника по C#, разработчик образовательных программ по Linux и DevOps для Международного колледжа ITHub. Финалист хакатона T1.
 
 ---
 
-## ✨ Личностные качества  
-🎯 Ориентация на результат  
-🧑‍🤝‍🧑 Лидерские качества и умение выстраивать рабочие процессы в команде  
-📘 Способность к быстрому обучению  
-🗣️ Коммуникабельность и навыки проведения технических собеседований  
+## Чем занимаюсь
+
+- Проектирую бэкенд-компоненты для платформ умных дашбордов и виджетов.
+- Разрабатываю сервисы на FastAPI, ASP.NET и Python/C# стеке.
+- Декомпозирую монолитные решения на микросервисы.
+- Настраиваю взаимодействие сервисов через gRPC, очереди сообщений и API-контракты.
+- Провожу нагрузочное тестирование и оптимизирую p95-задержку.
+- Настраиваю CI/CD, Docker, Docker Compose, Kubernetes, Nginx и стек мониторинга.
+- Разрабатываю учебные программы и практические задания по Linux, DevOps и бэкенд-разработке.
+- Менторю начинающих разработчиков и помогаю готовиться к трудоустройству.
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Antongo22&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+## Опыт и зоны ответственности
+
+### Технологии Доверия, ТеДо
+
+**Бэкенд-разработчик / архитектурная роль**  
+Февраль 2025 - настоящее время
+
+- Участвую в определении архитектуры платформы умных дашбордов и виджетов, проектировании взаимодействия сервисов и принятии технических решений по развитию продукта.
+- Определяю взаимодействие сервисов, API-контракты и интеграционные сценарии.
+- Разрабатываю бэкенд-компоненты на FastAPI и инфраструктуру обработки данных.
+- Выполнил декомпозицию монолита на 6 микросервисов.
+- Настроил взаимодействие через gRPC и очереди сообщений.
+- Реализовал уведомления в реальном времени через WebSocket.
+- Создал интеллектуальный краулер для агрегации внешних данных.
+- Сократил время агрегации данных на 60%.
+- Проводил нагрузочное тестирование платформы с использованием Locust до 2000 виртуальных пользователей.
+- Снизил p95-задержку ключевых сценариев с десятков секунд до 1-3 секунд.
+- Участвую в технических собеседованиях и оценке кандидатов.
+- Подготавливал материалы по gRPC и обучал коллег сервисному взаимодействию.
+
+### Международный колледж ITHub
+
+**Автор образовательных программ / преподавательская деятельность**  
+2025 - настоящее время
+
+- Разработал дисциплину «Linux для разработчика» объёмом 28 академических часов.
+- Разработал дисциплину «DevOps для разработчика» объёмом 50 академических часов.
+- Сформировал структуру курсов, образовательные цели, лабораторные работы и систему оценки знаний.
+- Подготовил практические задания по Git, Linux, Docker, Docker Compose, PostgreSQL, CI/CD и системному дизайну.
+- Разработал сквозной проект, демонстрирующий полный жизненный цикл приложения от разработки до эксплуатации.
+- Приглашён преподавать дисциплину DevOps.
+
+### Фриланс и личные проекты
+
+**Бэкенд-разработчик / ментор**  
+Июнь 2024 - настоящее время
+
+- Поддерживаю собственную инфраструктуру на Ubuntu, Docker и Kubernetes.
+- Хостинг сайтов [trexon.ru](https://trexon.ru) и [bunker.trexon.ru](https://bunker.trexon.ru).
+- Настраивал мониторинг через Prometheus и Grafana.
+- Создал Telegram-приложение для обучения программированию.
+- Автор собственного учебника по C#.
+- Консультировал начинающих разработчиков по бэкенд-разработке и архитектуре.
+- Помог нескольким специалистам подготовиться к трудоустройству и начать работу по специальности.
 
 ---
 
-<div align="center">
-  <img height="200" src="https://gifdb.com/images/high/homelander-gif-file-9427kb-wsek911zujaibnb0.webp" alt="Motivational GIF" />
-</div>  
+## Избранные проекты
+
+### [MafiaOnline](https://github.com/Antongo22/MafiaOnline)
+
+ASP.NET Core • PostgreSQL • Docker • WebRTC  
+Онлайн-платформа для проведения игр в мафию.
+
+### [gRPC_Info](https://github.com/Antongo22/gRPC_Info)
+
+Python • gRPC • учебные материалы  
+Материалы и примеры для быстрого погружения в gRPC.
+
+### [CshBook](https://github.com/Antongo22/CshBook)
+
+C# • обучение • примеры  
+Собственный учебник по C# с практическими материалами по программированию.
+
+### Инфраструктура Trexon
+
+Ubuntu • Docker • Kubernetes • Nginx • Prometheus • Grafana  
+Собственная инфраструктура для [trexon.ru](https://trexon.ru) и [bunker.trexon.ru](https://bunker.trexon.ru).
+
+---
+
+## Основной стек
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## Достижения
+
+- Финалист хакатона T1.
+- Автор образовательных программ по Linux и DevOps для Международного колледжа ITHub.
+- Участвовал в технических собеседованиях и оценке кандидатов.
+- Снизил p95-задержку ключевых бэкенд-сценариев до 1-3 секунд.
+- Спроектировал и внедрил декомпозицию бэкенд-системы на микросервисы.
+- Провёл нагрузочное тестирование бэкенд-платформы до 2000 виртуальных пользователей.
+
+---
+
+## Активность на GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Antongo22&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    height="165"
+    alt="Статистика GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antongo22&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Основные языки"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Antongo22&theme=github-dark-blue&hide_border=true"
+    height="165"
+    alt="Серия активности на GitHub"
+  />
+</p>
+
+---
+
+## Контакты
+
+- Почта: [anton005go.too@gmail.com](mailto:anton005go.too@gmail.com)
+- Telegram: [@d1n0nn](https://t.me/d1n0nn)
+- Сайт: [aleynichenko.ru](https://aleynichenko.ru)
+- Проекты: [trexon.ru](https://trexon.ru), [bunker.trexon.ru](https://bunker.trexon.ru)
+- LinkedIn: [anton-aleynichenko](https://www.linkedin.com/in/anton-aleynichenko-46352936b/)
