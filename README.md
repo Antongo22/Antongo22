@@ -1,208 +1,113 @@
-# Привет, я Антон Алейниченко
-
-### Backend-разработчик / C# / Python
-
-Распределённые системы • Микросервисы • DevOps
+<h1 align="center">Антон Алейниченко</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=760&lines=Backend+Developer;C%23+%2F+Python;FastAPI+%2F+ASP.NET;Microservices+%2F+gRPC;System+Design+%2F+DevOps"
-    alt="Анимация с ключевыми направлениями"
-  />
+  <strong>Backend Engineer</strong> · C#/.NET · Python · Distributed Systems · Performance Engineering
 </p>
 
 <p align="center">
-  <a href="mailto:anton005go.too@gmail.com">Почта</a>
-  ·
-  <a href="https://t.me/d1n0nn">Telegram</a>
-  ·
-  <a href="https://aleynichenko.ru">Сайт</a>
-  ·
-  <a href="https://trexon.ru">Trexon</a>
-  ·
-  <a href="https://www.linkedin.com/in/anton-aleynichenko-46352936b/">LinkedIn</a>
-  ·
-  <a href="https://docs.google.com/document/d/1PSPn5YfwqyzqCycR2Bc9abOS-cRKm55N/edit?usp=sharing&ouid=113991618058096830850&rtpof=true&sd=true">Резюме</a>
+  Проектирую backend-сервисы, межсервисное взаимодействие и инфраструктуру<br>
+  для сложных, масштабируемых продуктов.
 </p>
 
----
+<p align="center">
+  <a href="https://aleynichenko.ru"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/anton-aleynichenko-46352936b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/d1n0nn"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:anton005go.too@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://docs.google.com/document/d/1PSPn5YfwqyzqCycR2Bc9abOS-cRKm55N/edit?usp=sharing"><img src="https://img.shields.io/badge/CV-374151?style=flat-square&logo=googledocs&logoColor=white" alt="CV"></a>
+</p>
 
-## Ключевые цифры
+## Обо мне
 
-- 3,5+ года коммерческого опыта.
-- 1000+ запросов/сек. в backend-сервисах.
-- Нагрузочное тестирование до 2000 виртуальных пользователей с Locust.
-- Снижение p95-задержки с десятков секунд до 1-3 секунд.
-- 10+ спроектированных и внедрённых микросервисов.
-- Автор курсов Linux (28 академических часов) и DevOps (56 академических часов).
-- 5800+ вкладов на GitHub.
+Разрабатываю production-backend на **C#/.NET** и **Python/FastAPI**: проектирую API-контракты и схемы данных, декомпозирую системы на сервисы, строю real-time и интеграционные сценарии, провожу нагрузочное тестирование и устраняю узкие места.
 
----
+Мне интересен весь жизненный цикл системы — от границ компонентов и модели данных до поставки, наблюдаемости и поведения под нагрузкой. Также участвую в технических собеседованиях, менторю разработчиков и создаю образовательные программы по Linux и DevOps.
+
+> **Инженерный принцип:** код — только часть системы. Хорошее решение имеет понятные границы, измеримые характеристики, предсказуемо ведёт себя при сбоях и остаётся управляемым в production. Архитектуру выбираю под задачу и нагрузку, а не под моду.
+
+## Результаты и достижения
+
+| **1000+ RPS** | **p95 → 1–3 сек.** | **10+ микросервисов** | **−60% времени** |
+|:---:|:---:|:---:|:---:|
+| в backend-сервисах | после профилирования и оптимизации | спроектировано и внедрено | на агрегацию данных |
+
+- Провёл нагрузочное тестирование платформы до **2000 виртуальных пользователей**.
+- Разработал программы по **Linux и DevOps** для Международного колледжа ITHub.
+- Финалист хакатона **T1** и победитель внутренних соревнований по алгоритмам в Tskills.
+- Окончил колледж ITHub с красным дипломом и средним баллом **5.0**.
 
 ## Сейчас в фокусе
 
-- Высоконагруженные backend-системы.
-- Распределённая архитектура.
-- PostgreSQL и Redis.
-- gRPC и межсервисное взаимодействие.
-- Kafka и событийно-ориентированные системы.
-- Инженерия производительности.
-- DevOps и наблюдаемость.
-
----
-
-## О себе
-
-Backend-разработчик с 3+ годами коммерческого опыта на C# и Python. Специализируюсь на проектировании backend-сервисов, микросервисной архитектуре, распределённых системах, инженерии производительности и DevOps-практиках.
-
-Работаю с боевыми системами, API-контрактами, интеграциями, очередями сообщений, gRPC, WebSocket, Docker/Kubernetes-инфраструктурой и нагрузочным тестированием. Участвую в архитектурных решениях, технических собеседованиях и обучении разработчиков.
-
-Автор учебника по C#, разработчик образовательных программ по Linux и DevOps для Международного колледжа ITHub. Финалист хакатона T1.
-
----
-
-## Чем занимаюсь
-
-- Проектирую backend-компоненты для платформ умных дашбордов и виджетов.
-- Разрабатываю сервисы на FastAPI, ASP.NET и Python/C# стеке.
-- Декомпозирую монолитные решения на микросервисы.
-- Настраиваю взаимодействие сервисов через gRPC, очереди сообщений и API-контракты.
-- Провожу нагрузочное тестирование и оптимизирую p95-задержку.
-- Настраиваю CI/CD, Docker, Docker Compose, Kubernetes, Nginx и стек мониторинга.
-- Разрабатываю учебные программы и практические задания по Linux, DevOps и backend-разработке.
-- Менторю начинающих разработчиков и помогаю готовиться к трудоустройству.
-
----
-
-## Опыт и зоны ответственности
-
-### Технологии Доверия, ТеДо
-
-**Backend-разработчик / архитектурная роль**  
-Февраль 2025 - настоящее время
-
-- Участвую в определении архитектуры платформы умных дашбордов и виджетов, проектировании взаимодействия сервисов и принятии технических решений по развитию продукта.
-- Определяю взаимодействие сервисов, API-контракты и интеграционные сценарии.
-- Разрабатываю backend-компоненты на FastAPI и инфраструктуру обработки данных.
-- Выполнил декомпозицию монолита на 6 микросервисов.
-- Настроил взаимодействие через gRPC и очереди сообщений.
-- Реализовал уведомления в реальном времени через WebSocket.
-- Создал интеллектуальный краулер для агрегации внешних данных.
-- Сократил время агрегации данных на 60%.
-- Проводил нагрузочное тестирование платформы с использованием Locust до 2000 виртуальных пользователей.
-- Снизил p95-задержку ключевых сценариев с десятков секунд до 1-3 секунд.
-- Участвую в технических собеседованиях и оценке кандидатов.
-- Подготавливал материалы по gRPC и обучал коллег сервисному взаимодействию.
-
-### Международный колледж ITHub
-
-**Автор образовательных программ / преподавательская деятельность**  
-2026 - настоящее время
-
-- Разработал дисциплину «Linux для разработчика» объёмом 28 академических часов.
-- Разработал дисциплину «DevOps для разработчика» объёмом 50 академических часов.
-- Сформировал структуру курсов, образовательные цели, лабораторные работы и систему оценки знаний.
-- Подготовил практические задания по Git, Linux, Docker, Docker Compose, PostgreSQL, CI/CD и системному дизайну.
-- Разработал сквозной проект, демонстрирующий полный жизненный цикл приложения от разработки до эксплуатации.
-- Приглашён преподавать дисциплину DevOps.
-
-### Фриланс и личные проекты
-
-**Backend-разработчик / ментор**  
-Июнь 2024 - настоящее время
-
-- Поддерживаю собственную инфраструктуру на Ubuntu, Docker и Kubernetes.
-- Хостинг сайтов [trexon.ru](https://trexon.ru) и [bunker.trexon.ru](https://bunker.trexon.ru).
-- Настраивал мониторинг через Prometheus и Grafana.
-- Создал Telegram-приложение для обучения программированию.
-- Автор собственного учебника по C#.
-- Консультировал начинающих разработчиков по backend-разработке и архитектуре.
-- Помог нескольким специалистам подготовиться к трудоустройству и начать работу по специальности.
-
----
+- Архитектура высоконагруженных и распределённых backend-систем.
+- PostgreSQL, Redis, моделирование данных и производительность запросов.
+- gRPC, Kafka и событийно-ориентированное взаимодействие сервисов.
+- Надёжность в production: наблюдаемость, graceful degradation и поиск узких мест.
+- Развитие инженерной культуры через code review, менторство и передачу знаний.
 
 ## Избранные проекты
 
 ### [MafiaOnline](https://github.com/Antongo22/MafiaOnline)
 
-ASP.NET Core • PostgreSQL • Docker • WebRTC  
-Онлайн-платформа для проведения игр в мафию.
+Real-time платформа для многопользовательской игры с комнатами и встроенным чатом.
+
+`ASP.NET Core 9` · `SignalR` · `WebSocket` · `React` · `TypeScript` · `Docker Compose`
+
+**Архитектурный акцент:** REST управляет жизненным циклом комнат, а SignalR — двунаправленными событиями в реальном времени. Сообщения изолированы по комнатам; клиент поддерживает автоматическое переподключение. Production- и development-окружения воспроизводимо запускаются через Docker Compose.
 
 ### [gRPC_Info](https://github.com/Antongo22/gRPC_Info)
 
-Python • gRPC • учебные материалы  
-Материалы и примеры для быстрого погружения в gRPC.
+Практический стенд и набор материалов для погружения в gRPC и Protocol Buffers.
+
+`Python` · `FastAPI` · `gRPC` · `Protocol Buffers` · `Docker Compose`
+
+**Архитектурный акцент:** два независимых сервиса соединены типизированным контрактом — FastAPI принимает внешний REST-запрос и делегирует вычисление gRPC-сервису. Репозиторий показывает contract-first подход, генерацию клиентского и серверного кода и контейнеризированный запуск всей схемы.
 
 ### [CshBook](https://github.com/Antongo22/CshBook)
 
-C# • обучение • примеры  
-Собственный учебник по C# с практическими материалами по программированию.
+Структурированное учебное пособие по C# с исполняемыми примерами и практическими заданиями.
 
-### Инфраструктура Trexon
+`C#` · `.NET` · `OOP` · `Async/Multithreading` · `Testing` · `ASP.NET`
 
-Ubuntu • Docker • Kubernetes • Nginx • Prometheus • Grafana  
-Собственная инфраструктура для [trexon.ru](https://trexon.ru) и [bunker.trexon.ru](https://bunker.trexon.ru).
+**Инженерный акцент:** материал построен как последовательная система обучения — от базовых конструкций и ООП до LINQ, многопоточности, рефлексии, тестирования, паттернов и веб-разработки. Каждый модуль объединяет теорию, рабочий код и задания для самостоятельной практики.
 
----
+### [Trexon Infrastructure](https://trexon.ru)
 
-## Основной стек
+Собственная инфраструктура для размещения и эксплуатации веб-сервисов.
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+`Ubuntu` · `Docker` · `Kubernetes` · `Nginx` · `Prometheus` · `Grafana`
 
----
+**Архитектурный акцент:** полный эксплуатационный контур — reverse proxy, контейнеризация, оркестрация и мониторинг. Проект даёт практику не только разработки, но и поставки, диагностики и поддержки сервисов в production.
 
-## Достижения
+## Технологии
 
-- Финалист хакатона T1.
-- Автор образовательных программ по Linux и DevOps для Международного колледжа ITHub.
-- Участвовал в технических собеседованиях и оценке кандидатов.
-- Снизил p95-задержку ключевых backend-сценариев до 1-3 секунд.
-- Спроектировал и внедрил декомпозицию backend-системы на микросервисы.
-- Провёл нагрузочное тестирование backend-платформы до 2000 виртуальных пользователей.
+| Область | Стек |
+|---|---|
+| **Языки** | C#, Python, SQL |
+| **Backend** | ASP.NET Core, FastAPI, REST, gRPC, WebSocket, SignalR |
+| **Данные** | PostgreSQL, Redis |
+| **Интеграции** | Kafka, очереди сообщений, Protocol Buffers |
+| **Инфраструктура** | Linux, Docker, Docker Compose, Kubernetes, Nginx, GitHub Actions |
+| **Наблюдаемость и нагрузка** | Prometheus, Grafana, Locust |
 
----
+## GitHub
 
-## Активность на GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Antongo22&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    height="165"
-    alt="Статистика GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antongo22&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Основные языки"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Antongo22&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github&locale=ru" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antongo22&layout=compact&langs_count=8&hide_border=true&theme=transparent&locale=ru" alt="Most used languages">
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Antongo22&theme=github-dark-blue&hide_border=true"
-    height="165"
-    alt="Серия активности на GitHub"
-  />
+  <img src="https://streak-stats.demolab.com?user=Antongo22&theme=transparent&hide_border=true&locale=ru" alt="GitHub contribution streak">
 </p>
-
----
 
 ## Контакты
 
-- Почта: [anton005go.too@gmail.com](mailto:anton005go.too@gmail.com)
-- Telegram: [@d1n0nn](https://t.me/d1n0nn)
+Открыт к сложным backend-задачам, техническому сотрудничеству и обмену инженерным опытом.
+
 - Сайт: [aleynichenko.ru](https://aleynichenko.ru)
-- Проекты: [trexon.ru](https://trexon.ru), [bunker.trexon.ru](https://bunker.trexon.ru)
 - LinkedIn: [anton-aleynichenko](https://www.linkedin.com/in/anton-aleynichenko-46352936b/)
+- Telegram: [@d1n0nn](https://t.me/d1n0nn)
+- Email: [anton005go.too@gmail.com](mailto:anton005go.too@gmail.com)
+- Резюме: [открыть Google Docs](https://docs.google.com/document/d/1PSPn5YfwqyzqCycR2Bc9abOS-cRKm55N/edit?usp=sharing)
+
