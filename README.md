@@ -91,12 +91,6 @@ Real-time платформа для многопользовательской �
 
 ## GitHub
 
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Antongo22&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github&locale=ru" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antongo22&layout=compact&langs_count=8&hide_border=true&theme=transparent&locale=ru" alt="Most used languages">
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Antongo22&theme=transparent&hide_border=true&locale=ru" alt="GitHub contribution streak">
 </p>
