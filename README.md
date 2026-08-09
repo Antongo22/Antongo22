@@ -77,13 +77,4 @@ Real-time платформа для многопользовательской �
   <img src="https://streak-stats.demolab.com?user=Antongo22&theme=transparent&hide_border=true&locale=ru" alt="GitHub contribution streak">
 </p>
 
-## Контакты
-
-Открыт к сложным backend-задачам, техническому сотрудничеству и обмену инженерным опытом.
-
-- Сайт: [aleynichenko.ru](https://aleynichenko.ru)
-- LinkedIn: [anton-aleynichenko](https://www.linkedin.com/in/anton-aleynichenko-46352936b/)
-- Telegram: [@d1n0nn](https://t.me/d1n0nn)
-- Email: [anton005go.too@gmail.com](mailto:anton005go.too@gmail.com)
-- Резюме: [открыть Google Docs](https://docs.google.com/document/d/1PSPn5YfwqyzqCycR2Bc9abOS-cRKm55N/edit?usp=sharing)
 
