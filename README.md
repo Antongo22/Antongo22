@@ -1,7 +1,7 @@
 <h1 align="center">Антон Алейниченко</h1>
 
 <p align="center">
-  <strong>Backend Engineer</strong> · C#/.NET · Python · Distributed Systems · Performance Engineering · Architect
+  <strong>Backend Engineer</strong> · C#/.NET · Python · Distributed Systems · Architect
 </p>
 
 <p align="center">
