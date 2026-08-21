@@ -65,7 +65,7 @@ Real-time платформа для многопользовательской �
 | Область | Стек |
 |---|---|
 | **Языки** | C#, Python, SQL |
-| **Backend** | ASP.NET Core, FastAPI, REST, gRPC, WebSocket, SignalR |
+| **Backend** | ASP.NET Core, FastAPI, Flask, Django, REST, gRPC, WebSocket, SignalR |
 | **Данные** | PostgreSQL, Redis |
 | **Интеграции** | Kafka, очереди сообщений, Protocol Buffers |
 | **Инфраструктура** | Linux, Docker, Docker Compose, Kubernetes, Nginx, GitHub Actions |
